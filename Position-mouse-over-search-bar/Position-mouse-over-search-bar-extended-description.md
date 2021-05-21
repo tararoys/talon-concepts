@@ -1,1 +1,0 @@
-The search bar is in the lower left hand corner of the Windows 10 operating system. It has a magnifying glass symbol and says ‘search.’ Position your mouse over it. 
