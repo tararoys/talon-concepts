@@ -1,0 +1,6 @@
+WEBVTT
+
+
+1
+00:00:00.000 -->  00:00:23.000
+The help search <user.text> command is the first command that has a pattern in it. This particular type of pattern is called a catpture. and this thing is capturing any word we care to give it. That is what user.text means.
