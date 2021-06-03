@@ -1,0 +1,6 @@
+WEBVTT
+
+
+1
+00:00:00.000 -->  00:00:20.000
+Right now both of these computers respond to the command Talon wake to wake it up and Talon sleep to put it to sleep. The easiest way to put one asleep and have the other one be awake is to change those commands.
